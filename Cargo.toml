@@ -1,0 +1,15 @@
+[package]
+name = "ringhash"
+version = "0.0.0"
+edition = "2021"
+authors = ["isjieliu@163.com"]
+description = "Consistent hashing implementation"
+keywords = ["consistent hashing", "ringhash"]
+license = "MIT/Apache-2.0"
+readme = "README.md"
+repository = "https://github.com/Millione/ringhash"
+documentation = "https://docs.rs/ringhash/"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
